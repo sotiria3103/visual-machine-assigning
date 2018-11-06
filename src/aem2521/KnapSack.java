@@ -1,5 +1,5 @@
 ﻿
-package vmassigning;
+package aem2521;
 
 import java.util.ArrayList;
 import java.util.List;
